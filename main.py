@@ -62,4 +62,4 @@ def setup(kekw):
 
 
 client.add_cog(MyCog(client))
-client.run("NTc2ODEyNTg3Njk0Njg2MjA4.XNb8lQ.Wi23lpZ7FwIx5dmUeOkjy-1PoTU")
+client.run("no.")
